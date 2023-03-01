@@ -12,4 +12,4 @@
 * 16gb of memory
 * a 231gb ssd and a 931gb hdd
 
-![alt text]()
+![alt text](lenovo laptop.png)
