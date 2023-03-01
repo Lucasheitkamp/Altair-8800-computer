@@ -6,4 +6,9 @@
 ---
 
 
-#### My own laptop is a lenovo laptop with an i7 11th gen with a base speed of 2.8GH and 4 cores, 
+#### My own laptop is a lenovo laptop that I have had for a few months now and it costed 550jd.
+* i7 11th gen with a base speed of 2.8GH and 4 cores
+* Nvidia Geforce mx450 with 2gb of gpu memory and 
+* 16gb of memory
+* a 231gb ssd and a 931gb hdd
+
