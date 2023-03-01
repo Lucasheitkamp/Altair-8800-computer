@@ -6,7 +6,7 @@
 ---
 
 
-#### My own laptop is a lenovo laptop that I have had for a few months now and it costed 550jd.
+> My own laptop is a lenovo laptop that I have had for a few months now and it costed 550jd.
 * i7 11th gen with a base speed of 2.8GH and 4 cores
 * Nvidia Geforce mx450 with 2gb of gpu memory and 
 * 16gb of memory
@@ -22,3 +22,6 @@
 |gpu     |   no gpu   |  Nvidia geforce mx450  |
 | ram | 256 bytes    |    16gb |
 | storage |   1024 bytes   |    231gb ssd + 931gb hdd |
+
+
+[info from this source among other sources](https://www.techopedia.com/definition/17596/altair-8800#:~:text=Altair%208800's%20expansion%20bus%20allowed,it%20added%20to%20the%20cost.)
